@@ -9,6 +9,7 @@ With a strong foundation in software development, data analysis, and customer su
 ## 🚀 About Me  
 
 🎓 **Study:** Computer Science
+
 💡 **Emphasis/Focus Areas:** Software Development, Data Analysis, CyberSecurity, IT, AI/ML
 
 🔭 **Currently learning:** Full-stack web development(React & Node.js), Cloud Infrastructure(OCI/AWS)
