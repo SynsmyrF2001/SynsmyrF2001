@@ -44,12 +44,23 @@ With a strong foundation in software development, data analysis, and customer su
 
 ## 🏆 Featured Projects 
 
-### 📅 **Project #1** | 
+### 🌦️ **Weather App w/ Swift 🦅** | 
 
-#### 🔹 Key Contributions:  
-✔ 
+#### 🔹 Overview:  
 
-#### 🔹 Why It Matters:  
+→ This app provides real-time weather updates, offering a clean and simple interface for users to check current weather conditions at their location or any city around the world.
+
+#### 🔹 Why It Matters: 
+
+As my **first ever project in Swift**, the Tether Weather App allowed me to:
+
+✔ Get hands-on experience with **iOS app development**.
+
+✔ Understand how to integrate **third-party APIs** and parse JSON data.
+
+✔ Practice working with **SwiftUI/UIKit**, **network requests**, and **asynchronous operations**.
+
+✔ Learn how to design and structure an app for **scalability and maintainability**.
 
 ---
 
