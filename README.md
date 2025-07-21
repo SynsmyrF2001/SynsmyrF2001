@@ -82,9 +82,13 @@ As my **first ever project in Swift**, the Tether Weather App allowed me to:
 
 #### 🔹 Why It Stands Out:  
 ✔ **Full-Stack Mastery**: Demonstrates proficiency in both frontend (React) and backend (Node.js/Express) development
+
 ✔ **Database Integration**: MongoDB with Mongoose for data persistence and management
+
 ✔ **API Security**: Implements rate limiting and CORS for production-ready security
+
 ✔ **Modern Tech Stack**: Uses cutting-edge technologies like React 19, Vite, and Tailwind CSS
+
 ✔ **Deployment Ready**: Successfully deployed and accessible online with proper error handling
 
 ---
