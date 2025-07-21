@@ -74,10 +74,15 @@ As my **first ever project in Swift**, the Tether Weather App allowed me to:
 #### ✨ Features:  
 
 ✔ **Full CRUD Operations**: Create, read, update, and delete notes seamlessly
+
 ✔ **Modern UI/UX**: Beautiful, responsive design with Tailwind CSS and DaisyUI
+
 ✔ **Real-time Rate Limiting**: Built-in protection against API abuse using Upstash Redis
+
 ✔ **Responsive Design**: Works perfectly on desktop, tablet, and mobile devices
+
 ✔ **Production Ready**: Optimized for deployment with proper error handling
+
 ✔ **Real-time Updates**: Instant UI updates when notes are modified
 
 #### 🔹 Why It Stands Out:  
