@@ -11,7 +11,7 @@ Whether it's clean code, real-time systems, or uplifting my community through te
 
 💡 **Emphasis/Focus Areas:** Software Development, Data Analysis, CyberSecurity, IT, AI/ML
 
-🔭 **Currently learning:** Full-stack web development(React & Node.js), Cloud Infrastructure(OCI/AWS)
+🔭 **Currently learning:** Full-stack web development, Cloud Infrastructure & Computing Solutions(OCI/AWS)
 - Exploring full-stack development and cloud technologies
 - Building projects that bridge community impact with technology
 
@@ -19,7 +19,7 @@ Whether it's clean code, real-time systems, or uplifting my community through te
 
 🔛🔝 **Passionate About:** Building scalable, impactful solutions, and implementing them from concept to deployment with teams.
 
-🏋🏾‍♂️ **Strengths:** Problem-solving, adaptablity, teamwork, customer-first mindset.
+🏋🏾‍♂️ **Strengths:** Problem-solving, adaptablity, team catalyst, solution-oriented mindset.
 
 🏊🏾‍♂️ **Fun fact:** Outside of coding, I'm a swim coach and the AV/technical director at my local church with a profound grace and love to teach and learn new skills!
 
