@@ -9,7 +9,7 @@ Whether it's clean code, real-time systems, or uplifting my community through te
 
 🎓 **Study:** Computer Science
 
-💡 **Emphasis/Focus Areas:** Software Development, Data Analysis, CyberSecurity, IT, AI/ML
+💡 **Emphasis/Focus Areas:** Software Development, Data Science, IT, AI/ML
 
 🔭 **Currently learning:** Full-stack web development, Cloud Infrastructure & Computing Solutions(OCI/AWS)
 - Exploring full-stack development and cloud technologies
