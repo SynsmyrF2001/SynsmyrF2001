@@ -1,9 +1,89 @@
 ## 👨🏾‍💻 Hi there, I'm Synsmyr! 🙋🏾‍♂️
+I'm a first-generation Haitian-American and a Computer Science student passionate about building, solving, and serving.
 
-I'm a Computer Science major with a strong passion for problem-solving and all things STEM. Ever since I stepped into the STEM world, I've never looked back. I'm in love with the process—whether it's writing clean code, analyzing data, or collaborating with a team, I believe that discipline and persistence are the keys to great results.
+Whether it's clean code, real-time systems, or uplifting my community through tech, I love learning and collaborating to create things that matter.
 
-With a strong foundation in software development, data analysis, and customer support, I'm driven to build impactful, scalable solutions that make a difference. I thrive in fast-paced, team-oriented environments where learning never stops. I'm currently seeking opportunities in Software Engineering, Data Science, or IT Engineering where I can apply my skills, contribute to meaningful projects, and continue growing professionally.
+---
 
+## 🎓 Academics & Focus  
+
+📍 **CS Major @ [Your University]**  
+📅 **Fall 2025 Courses**  
+- 🔧 CS 341: Computer Architecture & Organization (Lecture + Lab)  
+- 🧠 MATH 345: Probability and Statistics  
+- 💬 CS 285L: Social Issues & Ethics in Computing  
+- 📐 Discrete Mathematics  
+
+💡 **Focus Areas**  
+- Full-Stack Development (MERN, Swift)  
+- Cybersecurity & Ethical Computing  
+- Cloud Infrastructure (OCI, AWS)  
+- AI/ML Foundations  
+
+---
+
+## 📚 Currently Learning
+
+- ☁️ Cloud platforms (AWS, Oracle Cloud)
+- 🌐 Full-stack development with MERN stack
+- 📊 Algorithms, Data Structures, & System Design
+- 🧮 Probability, Discrete Math, and Computer Architecture
+- 🧠 Soft skills: Team leadership, tech instruction, and community support
+
+---
+
+## 🛠️ Tech Stack  
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+
+---
+
+## 🏆 Featured Projects  
+
+### 🧠 MERN Thinkboard | [Live](https://mern-stack-thinkboard-57eb.onrender.com/) | [Code](https://github.com/SynsmyrF2001/mern-stack-thinkboard)  
+> A modern, responsive full-stack note-taking app with CRUD, Redis rate limiting, and elegant design using Tailwind CSS.
+
+### 🌦️ Tether Weather App (Swift)  
+> My first iOS project using SwiftUI. Real-time weather updates using external APIs with clean UX.
+
+### 📸 Church AV Production System (WIP)  
+> Designing a church-wide media system for multi-camera live production, streaming, and post-editing using Blackmagic hardware.
+
+---
+
+## 💼 Career Goals  
+
+🔍 Currently seeking:
+- **Software Engineering internships** (Summer 2026)  
+- **IT/DevOps support roles**  
+- **Tech-for-social-good projects**  
+
+---
+
+## 🌟 Fun Facts  
+
+- 🏊🏾‍♂️ Swim coach & AV director at my church  
+- 🎙️ Love teaching, presenting, and mentoring  
+- 💬 Bilingual: English & Haitian Creole  
+- 📸 Into cameras, production gear, and visual storytelling
+
+---
+
+## 📫 Let’s Connect!  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/synsmyr)  
+✉️ Email: your.email@example.com  
+🌐 Portfolio: coming soon!
+
+---
+> _Empowered to serve, driven to build._
 ---
 
 ## 🚀 About Me  
