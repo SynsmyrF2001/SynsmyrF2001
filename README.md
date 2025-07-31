@@ -105,16 +105,42 @@ As my **first ever project in Swift**, the Tether Weather App allowed me to:
 
 ---
 
-### 🎉 **Project #3**  
+### �� **Church Equipment Inventory System** | [GitHub](https://github.com/SynsmyrF2001/church-inventory-tracker)
 
-#### 🔹 Overview:
+#### �� Overview:    
+
+→ A comprehensive Flask-based web application designed to manage and track church technical equipment inventory. Features QR code generation/scanning, multi-language support, and interactive tutorials for church staff and volunteers.
 
 #### ✨ Features:  
 
+✔ **QR Code Integration**: Generate and scan QR codes for quick equipment identification
 
-#### 🔹 Why It Stands Out:  
-✔ 
+✔ **Multi-language Support**: English, French, and Haitian Creole with automatic detection
 
+✔ **Interactive Tutorial System**: 7-step walkthrough for new users and volunteers
+
+✔ **Comprehensive Reporting**: Usage statistics, overdue alerts, and CSV export functionality
+
+✔ **Equipment Categories**: Audio, video, lighting, instruments, cables, computers, and more
+
+✔ **Check-in/Check-out Workflow**: Complete audit trail with condition assessment
+
+✔ **Responsive Design**: Mobile-first approach with Bootstrap 5 and dark theme support
+
+✔ **Smart Assistance**: Auto-suggestions, tooltips, and contextual help for novice users
+
+#### �� Why It Stands Out:  
+✔ **Community Impact**: Solves real-world problems for church communities and volunteers
+
+✔ **User Experience Focus**: Designed specifically for non-technical users with interactive tutorials
+
+✔ **Internationalization**: Multi-language support reflecting diverse church communities
+
+✔ **Production Ready**: Comprehensive deployment guides and security considerations
+
+✔ **Modern Tech Stack**: Flask, SQLAlchemy, Bootstrap 5, and QR code integration
+
+✔ **Scalable Architecture**: Supports SQLite, PostgreSQL, and MySQL databases
 ---
 
 ## 🚀 **Let's Connect!**
