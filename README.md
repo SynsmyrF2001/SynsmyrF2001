@@ -140,7 +140,6 @@ As my **first ever project in Swift**, the Tether Weather App allowed me to:
 
 ✔ **Modern Tech Stack**: Flask, SQLAlchemy, Bootstrap 5, and QR code integration
 
-✔ **Scalable Architecture**: Supports SQLite, PostgreSQL, and MySQL databases
 ---
 
 ## 🚀 **Let's Connect!**
