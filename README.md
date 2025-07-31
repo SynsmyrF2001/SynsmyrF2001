@@ -105,9 +105,9 @@ As my **first ever project in Swift**, the Tether Weather App allowed me to:
 
 ---
 
-### �� **Church Equipment Inventory System** | [GitHub](https://github.com/SynsmyrF2001/church-inventory-tracker)
+### 📶 **Church Equipment Inventory System** | [GitHub](https://github.com/SynsmyrF2001/church-inventory-tracker)
 
-#### �� Overview:    
+#### 🔹 Overview:    
 
 → A comprehensive Flask-based web application designed to manage and track church technical equipment inventory. Features QR code generation/scanning, multi-language support, and interactive tutorials for church staff and volunteers.
 
@@ -129,7 +129,7 @@ As my **first ever project in Swift**, the Tether Weather App allowed me to:
 
 ✔ **Smart Assistance**: Auto-suggestions, tooltips, and contextual help for novice users
 
-#### �� Why It Stands Out:  
+#### 🔹 Why It Stands Out:  
 ✔ **Community Impact**: Solves real-world problems for church communities and volunteers
 
 ✔ **User Experience Focus**: Designed specifically for non-technical users with interactive tutorials
