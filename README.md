@@ -105,7 +105,7 @@ As my **first ever project in Swift**, the Tether Weather App allowed me to:
 
 ---
 
-### 📶 **Church Equipment Inventory System(C.E.I.S** | [GitHub](https://github.com/SynsmyrF2001/church-inventory-tracker)
+### 📶 **Church Equipment Inventory System(C.E.I.S)** | [GitHub](https://github.com/SynsmyrF2001/church-inventory-tracker)
 
 #### 🔹 Overview:    
 
