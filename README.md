@@ -142,4 +142,35 @@ As my **first ever project in Swift**, the Tether Weather App allowed me to:
 
 ---
 
+### 💬 **TCP Chat – Multi-Client Chat Server & Client** | [GitHub](https://github.com/SynsmyrF2001/TCP-Chat)
+
+#### 🔹 Overview:  
+
+→ A learning-focused TCP chat server and client in **Python using raw sockets only** (no frameworks). Multiple clients connect simultaneously; each message is broadcast to all others. Clients join with a username, and the server logs connections, disconnections, and messages with timestamps.
+
+#### ✨ Features:  
+
+✔ **Thread-per-client server**: Main thread accepts connections; each client gets a worker thread so one blocking client never freezes the server
+
+✔ **Newline-framed protocol**: UTF-8 lines (first line = username, rest = chat) so both sides parse the byte stream into discrete messages
+
+✔ **Full-duplex client**: Two threads—one reads stdin and sends, one reads from the socket and prints—so typing and receiving don’t block each other
+
+✔ **Graceful disconnect**: Server handles `recv()` returning 0 and `ConnectionResetError`; client closes cleanly and exits on server close
+
+✔ **Protocol tests**: Automated tests for broadcast, join notifications, disconnect behavior, and concurrent stress (20 clients, 50 messages each)
+
+✔ **Documentation**: README with architecture, TCP concepts demonstrated, and a “What I Learned” section
+
+#### 🔹 Why It Stands Out:  
+✔ **Fundamentals-first**: Built step-by-step (listen → framing → single client → threading → broadcast → usernames → client → polish) to understand every concept at the network level
+
+✔ **No frameworks**: Only Python stdlib—`socket`, `threading`, `datetime`, `argparse`—so you see exactly how TCP, sockets, and concurrency work
+
+✔ **Concurrency clarity**: One thread blocked on `recv()` can’t accept or serve others; thread-per-client makes the “why threading” concrete
+
+✔ **Production-style robustness**: Shared client list protected by a lock; exception handling so one bad disconnect doesn’t crash the server
+
+---
+
 ## 🚀 **Let's Connect!**
