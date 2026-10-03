@@ -45,6 +45,22 @@ ReAct pattern and function calling implemented from first principles—JSON tool
 
 ---
 
+## Certifications
+
+### ✅ Certified
+
+_None yet, coming soon!_
+
+### 🚧 In Progress
+
+| Certification | Issuer | Status | Target Date |
+|---|---|---|---|
+| CompTIA A+ | CompTIA | 🚧 In Progress | TBD |
+| CompTIA Network+ | CompTIA | 🚧 In Progress | TBD |
+| CompTIA Linux+ | CompTIA | 🚧 In Progress | TBD |
+
+---
+
 ## Contact
 
 [LinkedIn](https://linkedin.com/in/synsmyrforgue) · [GitHub](https://github.com/SynsmyrF2001) · synsmyr.smf@gmail.com
